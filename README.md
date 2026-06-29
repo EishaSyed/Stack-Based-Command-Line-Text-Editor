@@ -90,7 +90,6 @@ This demonstrates the practical application of the **Last-In-First-Out (LIFO)** 
 * Data Structures and Algorithms
 * File Handling
 
-## Sample Outputs
 
 ## Sample Output
 
